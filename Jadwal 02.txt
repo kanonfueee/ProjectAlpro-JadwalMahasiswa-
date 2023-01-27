@@ -1,0 +1,14 @@
+IF 02-02
+
+=== Senin : Matematika 07:00-09:00 ===
+=== Senin : Algoritma Pemrogramman 10:00-12:00 ===
+
+=== Selasa : Agama 08:00-10:00 ===
+
+=== Rabu : Fisika 07:00-10:00 ===
+=== Rabu : Pengantar Maritim,Logistik,dan Transportasi 16:00-17:00 ===
+
+=== Kamis : Algoritma Pemrogramman 10:00-12:00 ===
+=== Kamis : Pancasila 12:30-14:30 ===
+
+=== Jumat : Literasi Teknologi & Informasi 07:00-09:30 ===
